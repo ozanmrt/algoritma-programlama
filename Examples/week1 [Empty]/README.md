@@ -1,1 +1,1 @@
-İlk hafta ders işlenmediği için örnekleri yok.
+İlk hafta örnek yapılmadı.
