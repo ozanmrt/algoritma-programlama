@@ -1,1 +1,1 @@
-İlk hafta ödev verilmedi.
+>İlk hafta ödev verilmedi
