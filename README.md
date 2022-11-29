@@ -1,6 +1,4 @@
-# algoritma-programlama
+# Algoritma ve Programlama
 
-Mehmet Akif Ersoy Üniversitesi - Yazılım Mühendisliği
-
-Algoritma ve Programlama Dersi
-
+**Examples:** Yapılan Örnekler
+**HomeWorks:** Verilen Ödevler
