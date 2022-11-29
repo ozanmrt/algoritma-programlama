@@ -1,4 +1,4 @@
 # Algoritma ve Programlama
 
 **Examples:** Yapılan Örnekler<br>
-**HomeWorks:** Verilen Ödevler
+**Homeworks:** Verilen Ödevler
