@@ -9,8 +9,6 @@ Adım 7: Git Adım 4
 Adım 8: Ekrana Toplamı Yazdır
 Adım 9: Bitir
 
-Klavyeden Girilen Bir n Sayısına Göre Tek Sayıları Toplamını - Diyagramını - Algoritmasını
-kareleri toplamı
  */
 public class Ornek3 {
 
